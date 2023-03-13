@@ -3,7 +3,8 @@
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=vitupallermo&label=Profile%20views&color=0e75b6&style=flat" alt="vitupallermo" /> </p>
 
-- 📫 Como me contatar **victor. palermo@edu.unifil.br**
+- 📫 Como me contatar victor.palermo@edu.unifil.br
+- 😎 Estudante do Curso Engenharia de Software na Unifil
 
 
 <h3 align="left">Idiomas e ferramentas:
